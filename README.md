@@ -1,8 +1,6 @@
 # README file
 
-### Gabriela Cretu, Daniel Perez Domouso, Berdan Erdem, Sitie Pan, Orestis
-
-### Tziapouras
+### Gabriela Cretu, Daniel Perez Domouso, Berdan Erdem, Sitie Pan, Orestis Tziapouras
 
 ### April 21, 2025
 
