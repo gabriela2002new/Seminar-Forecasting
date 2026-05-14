@@ -8,7 +8,7 @@
 
 ## Data setup and Variable scenarios
 
-The datasetDataset-team10comprises monthly macroeconomic and financial indicators
+The dataset "Dataset-team10" comprises monthly macroeconomic and financial indicators
 extracted from an Excel file. Each series is transformed into logarithmic differences or growth
 rates when applicable, followed by standardization (mean = 0, standard deviation = 1) to
 ensure comparability.
